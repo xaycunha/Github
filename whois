@@ -1,0 +1,50 @@
+{"WhoisRecord": {
+  "domainName": "telefoneclaro.com.br",
+  "parseCode": 0,
+  "audit": {
+    "createdDate": "2021-04-19 09:32:27 UTC",
+    "updatedDate": "2021-04-19 09:32:27 UTC"
+  },
+  "registryData": {
+    "createdDate": "20210301 #22477841",
+    "updatedDate": "20210308",
+    "expiresDate": "20220301",
+    "registrant": {
+      "name": "ESCALE SEO MARKETING DIGITAL LTDA",
+      "rawText": "owner:       ESCALE SEO MARKETING DIGITAL LTDA"
+    },
+    "technicalContact": {
+      "name": "Matt Kligerman",
+      "rawText": "nic-hdl-br:  MAKLI6\u000aperson:      Matt Kligerman\u000acreated:     20120831\u000achanged:     20201223\u000anic-hdl-br:  MAKLI6\u000aperson:      Matt Kligerman\u000acreated:     20120831\u000achanged:     20201223"
+    },
+    "domainName": "telefoneclaro.com.br",
+    "nameServers": {
+      "rawText": "ns-1321.awsdns-37.org\u000ans-1734.awsdns-24.co.uk\u000ans-334.awsdns-41.com\u000ans-634.awsdns-15.net\u000a",
+      "hostNames": [
+        "ns-1321.awsdns-37.org",
+        "ns-1734.awsdns-24.co.uk",
+        "ns-334.awsdns-41.com",
+        "ns-634.awsdns-15.net"
+      ],
+      "ips": [
+      ]
+    },
+    "status": "published",
+    "rawText": "% Copyright (c) Nic.br\u000a%  The use of the data below is only permitted as described in\u000a%  full by the terms of use at https://registro.br/termo/en.html ,\u000a%  being prohibited its distribution, commercialization or\u000a%  reproduction, in particular, to use it for advertising or\u000a%  any similar purpose.\u000a%  2021-04-19T06:32:27-03:00 - IP: 209.222.107.235\u000a\u000adomain:      telefoneclaro.com.br\u000aowner:       ESCALE SEO MARKETING DIGITAL LTDA\u000aowner-c:     MAKLI6\u000atech-c:      MAKLI6\u000anserver:     ns-1321.awsdns-37.org\u000ansstat:      20210416 AA\u000anslastaa:    20210416\u000anserver:     ns-1734.awsdns-24.co.uk\u000ansstat:      20210416 AA\u000anslastaa:    20210416\u000anserver:     ns-334.awsdns-41.com\u000ansstat:      20210416 AA\u000anslastaa:    20210416\u000anserver:     ns-634.awsdns-15.net\u000ansstat:      20210416 AA\u000anslastaa:    20210416\u000asaci:        yes\u000acreated:     20210301 #22477841\u000achanged:     20210308\u000aexpires:     20220301\u000astatus:      published\u000a\u000anic-hdl-br:  MAKLI6\u000aperson:      Matt Kligerman\u000acreated:     20120831\u000achanged:     20201223\u000a\u000a% Security and mail abuse issues should also be addressed to\u000a% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br\u000a% and mail-abuse@cert.br\u000a%\u000a% whois.registro.br accepts only direct match queries. Types\u000a% of queries are: domain (.br), registrant (tax ID), ticket,\u000a% provider, CIDR block, IP and ASN.",
+    "parseCode": 3315,
+    "header": "% Copyright (c) Nic.br\u000a%  The use of the data below is only permitted as described in\u000a%  full by the terms of use at https://registro.br/termo/en.html ,\u000a%  being prohibited its distribution, commercialization or\u000a%  reproduction, in particular, to use it for advertising or\u000a%  any similar purpose.\u000a%  2021-04-19T06:32:27-03:00 - IP: 209.222.107.235\u000a% Copyright (c) Nic.br\u000a%  The use of the data below is only permitted as described in\u000a%  full by the terms of use at https://registro.br/termo/en.html ,\u000a%  being prohibited its distribution, commercialization or\u000a%  reproduction, in particular, to use it for advertising or\u000a%  any similar purpose.\u000a%  2021-04-19T06:32:27-03:00 - IP: 209.222.107.235",
+    "strippedText": "\u000adomain:      telefoneclaro.com.br\u000aowner:       ESCALE SEO MARKETING DIGITAL LTDA\u000aowner-c:     MAKLI6\u000atech-c:      MAKLI6\u000anserver:     ns-1321.awsdns-37.org\u000ansstat:      20210416 AA\u000anslastaa:    20210416\u000anserver:     ns-1734.awsdns-24.co.uk\u000ansstat:      20210416 AA\u000anslastaa:    20210416\u000anserver:     ns-334.awsdns-41.com\u000ansstat:      20210416 AA\u000anslastaa:    20210416\u000anserver:     ns-634.awsdns-15.net\u000ansstat:      20210416 AA\u000anslastaa:    20210416\u000asaci:        yes\u000acreated:     20210301 #22477841\u000achanged:     20210308\u000aexpires:     20220301\u000astatus:      published\u000a\u000anic-hdl-br:  MAKLI6\u000aperson:      Matt Kligerman\u000acreated:     20120831\u000achanged:     20201223\u000a\u000a% Security and mail abuse issues should also be addressed to\u000a% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br\u000a% and mail-abuse@cert.br\u000a%\u000a% whois.registro.br accepts only direct match queries. Types\u000a% of queries are: domain (.br), registrant (tax ID), ticket,\u000a% provider, CIDR block, IP and ASN.\u000a\u000adomain:      telefoneclaro.com.br\u000aowner:       ESCALE SEO MARKETING DIGITAL LTDA\u000aowner-c:     MAKLI6\u000atech-c:      MAKLI6\u000anserver:     ns-1321.awsdns-37.org\u000ansstat:      20210416 AA\u000anslastaa:    20210416\u000anserver:     ns-1734.awsdns-24.co.uk\u000ansstat:      20210416 AA\u000anslastaa:    20210416\u000anserver:     ns-334.awsdns-41.com\u000ansstat:      20210416 AA\u000anslastaa:    20210416\u000anserver:     ns-634.awsdns-15.net\u000ansstat:      20210416 AA\u000anslastaa:    20210416\u000asaci:        yes\u000acreated:     20210301 #22477841\u000achanged:     20210308\u000aexpires:     20220301\u000astatus:      published\u000a\u000anic-hdl-br:  MAKLI6\u000aperson:      Matt Kligerman\u000acreated:     20120831\u000achanged:     20201223\u000a\u000a% Security and mail abuse issues should also be addressed to\u000a% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br\u000a% and mail-abuse@cert.br\u000a%\u000a% whois.registro.br accepts only direct match queries. Types\u000a% of queries are: domain (.br), registrant (tax ID), ticket,\u000a% provider, CIDR block, IP and ASN.",
+    "audit": {
+      "createdDate": "2021-04-19 09:32:27 UTC",
+      "updatedDate": "2021-04-19 09:32:27 UTC"
+    },
+    "createdDateNormalized": "2021-03-01 00:00:00 UTC",
+    "updatedDateNormalized": "2021-03-08 00:00:00 UTC",
+    "expiresDateNormalized": "2022-03-01 00:00:00 UTC",
+    "whoisServer": "whois.registro.br"
+  },
+  "domainAvailability": "UNAVAILABLE",
+  "contactEmail": "cert@cert.br",
+  "domainNameExt": ".com.br",
+  "estimatedDomainAge": 49
+}}
